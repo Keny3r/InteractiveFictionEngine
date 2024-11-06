@@ -1,0 +1,91 @@
+-help
+h
+
+-and
+then
+after that
+
+-north
+n
+go north
+walk north
+
+-south
+s
+go south
+walk south
+
+-west
+w
+go west
+walk west
+
+-east
+e
+go east
+walk east
+
+-up
+u
+go up
+climb up
+climb
+walk up
+
+-down
+d
+go down
+descend
+climb down
+walk down
+
+-leave
+go out
+get out
+
+-enter
+go in
+
+-look
+l
+
+-examine
+x
+inspect
+check
+
+-take
+pick up
+pickup
+get
+pick
+
+-drop
+throw
+throw away
+
+-put
+place
+insert
+
+-in
+on
+
+-inventory
+i
+check inventory
+open inventory
+check backpack
+open backpack
+backpack
+
+-attack
+hit
+kill
+
+-punch
+kick
+abuse
+
+-player
+myself
